@@ -1,5 +1,4 @@
 
-/.idea
 *.pyc
-/.idea
 *.sqlite3
+/.idea
